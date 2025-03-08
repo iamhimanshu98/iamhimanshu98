@@ -4,13 +4,13 @@
 - 👀 Interested in Artificial Intelligence & Data Science.  
   
 
--  🌱 I’m currently learning Python.  
+-  🌱 I’m currently learning React JS.  
   
 
-- ❓ Ask me about anything related to Python and related technologies.  
+- ❓ Ask me about anything related to Python, JS, Java and any other technologies.  
   
 
-- ⚡ Fun fact: I use tabs over spaces.  
+- ⚡ Fun fact: We use tabs over spaces & keyboards over mouse.  
   
 
 <br/>  
