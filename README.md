@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, I'm Himanshu</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Enthusiast;Creative+Technologist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=2000&color=3B82F6&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Enthusiast;Creative+Technologist" alt="Typing SVG" />
 </div>
 
 <br/>
