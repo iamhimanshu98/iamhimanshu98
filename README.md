@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 👀 Interested in Artificial Intelligence & Data Science
-- 🌱 Currently learning React JS
+- 🌱 Currently learning Java Springboot
 - 💬 Ask me about Python, JS, Java and any other technologies
 - ⚡ Fun fact: We use tabs over spaces & keyboards over mouse
 
